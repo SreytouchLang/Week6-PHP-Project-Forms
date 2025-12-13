@@ -12,7 +12,7 @@
   <script>
     /*************************************************
      * Week 7 JavaScript Practice
-     * Course: DEV 630 Web Programming I
+     * Course: DEV Web Programming I
      * Student: Sreytouch Lang
      *************************************************/
 
